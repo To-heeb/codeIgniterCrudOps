@@ -1,0 +1,1 @@
+<h3>Party Successfully deleted</h3>
